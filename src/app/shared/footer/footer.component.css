@@ -1,0 +1,41 @@
+/*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=latin-ext');
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+/*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
+
+.section_footer{
+	width: 100%;
+  height: auto;
+	float: left;
+	background-color: rgb(2 132 199);
+	height: auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+  margin-top: 92px;
+}
+.social-icon{
+	width: 100%;
+	margin-left: 60px;
+	border-bottom: 3px solid#fff;
+}
+
+.icons {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 70px;
+}
+.icons li{ float: left; padding-left: 40px; }
+.copyright{
+	width: 100%;
+	float: left;
+	font-size: 12pt;
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+	font-family: Poppins;
+}
+.copyright a{
+	color: #b1b0b0;
+}
